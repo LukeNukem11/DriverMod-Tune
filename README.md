@@ -3,9 +3,13 @@ Building a website for a fictional Automotive shop, to be displayed in my Portfo
 
 ## Website Functionality
 1. Login/Create new user
-2. User is able to Schedule an Appt. or purchase Merch/Accessories from the shop.
-3. Site has navbar: -Home -About Us -Contact Us -Store -Scheduler 
-4. Fluid transitions between the pages.
+   - allow user to customize profile
+   - create base user profile photos
+   - allow user to create a bio
+   - allow user to update address
+3. User is able to create posts in Forum
+4. User is able to Schedule an Appt. in Contact page, and/or purchase Merch/Accessories from the shop.
+5. Site has navbar: -Home -About Us -Contact Us -Store -Forum 
 
 ## Using the Site
 Open Site [HERE](example.org). 
